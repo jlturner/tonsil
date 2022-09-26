@@ -1,0 +1,15 @@
+{
+  "name": "tonsil",
+  "version": "1.0.0",
+  "description": "Multichannel logger and visualization server.",
+  "author": "James Lawrence Turner",
+  "license": "MIT",
+  "files": [
+    "/dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
